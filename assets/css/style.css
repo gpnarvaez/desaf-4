@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+	margin: 0 auto;
+    height: 470px;
+}
+
+.backgroundColor{
+    background-color: #28A745;
+}
+
+.text-company{
+    font-size: 1rem;
+    color: #707070;
+    margin: 0;
+    font-weight: 300;
+}
+.text-address{
+    font-size: 0.813rem;
+    color:#707070;
+    font-weight: 300;
+    margin: 0;
+}
+
+.price-old{
+    font-size: 1rem;
+    color:#707070;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.price-old:hover{
+    font-size: 1rem;
+    color:#707070;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+
+.price-now{
+    font-size: 1.25rem;
+    color:#28A745;
+    font-weight: 500;
+    text-decoration: none;
+}
+.price-now:hover{
+    font-size: 1.25rem;
+    color:#28A745;
+}
+
+.text-form{ 
+    font-size: 1.313rem;
+    color:#FFFFFF;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.form-control{
+    font-weight: 300;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img{
+    width: 82px;
+    padding-top: 24px;
+}
+
+footer p{
+    font-size: 1rem;
+    color:#707070;
+    font-weight: 300;
+    margin-bottom: 24px;
+}
